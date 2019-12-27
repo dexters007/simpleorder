@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+    display: block;
+    position: absolute;
+    height: auto;
+    width: auto;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 100px;
+    margin-left: 0px;
+    max-height: 60%;
+
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+form {
+	text-align: center;
+	font-weight: bold;
+	color: white;
+}
+button {
+	margin-left: 260px;
+	height: 100px;
+	width: 100px;
+	font-size: 25px;
+	background-color: green;
+}
